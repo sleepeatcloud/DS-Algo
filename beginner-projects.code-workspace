@@ -1,9 +1,7 @@
 {
-	"folders": [
-		{
-			"name": "beginner-projects",
-			"path": "."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
